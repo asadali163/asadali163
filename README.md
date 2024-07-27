@@ -1,25 +1,12 @@
-### Hi there, Asad Ali here 😍 
+## Hi, Asad here 😍 
 
-    
-### Student Life
-    I did my matriculation from Five Star Public School and Intermediate from Al-Asar Academy Usterzai Payan Kohat Pakistan... 
-    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
+## About Me
 
-###  Professional Side:
-    I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
-    Meanwhile doing work on Fiverr and Upwork as well. 
-    After having a handsome experience from a reputed software house, now I have my own best team and startup of more than 10 developers contributing and providing services 
-    with mentioned technologies below
->   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
-    For backend, I use **Java(Spring boot)**, **Spring boot Microservices (Load Balancers etc)**
-    I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
-### My Work and projects
-    
-### Company Site 
-    🔗 [Asad's Company Website]()
-    
-### Portfolio    
-    🔗 [Asad's Personal Portfolio Website]()
+I completed my matriculation at Five Star Public School and my intermediate studies at Al-Asar Academy in Usterzai Payan, Kohat, Pakistan. Recently, I graduated with a degree in Computer Science from Sukkur IBA University, where I was honored to be the gold medalist for my outstanding performance.
+
+I began my professional career as a Junior Software Engineer during the 4th semester of my graduation in the software industry. In parallel, I have been working on Fiverr and Upwork. During my 6th semester, I started focusing on Data Science and Machine Learning. After earning specialization certificates from Coursera, including courses by Andrew Ng, I began working on real-world projects. I completed my final year project (FYP) titled "Classification of COVID-19, Pneumonia, and Normal from X-rays using Deep Learning Techniques."
+
+Currently, I am seeking positions and scholarships abroad in the fields of Machine Learning and AI. I am eager to contribute to innovative projects and further my knowledge in these cutting-edge areas.
 
 ### Technologies I am working with:
     👉   Spring (Java)
