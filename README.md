@@ -1,6 +1,6 @@
 ## Hi, Asad here 😍 
 
-## About Me
+### About Me
 
 I completed my matriculation at Five Star Public School and my intermediate studies at Al-Asar Academy in Usterzai Payan, Kohat, Pakistan. Recently, I graduated with a degree in Computer Science from Sukkur IBA University, where I was honored to be the gold medalist for my outstanding performance.
 
@@ -8,64 +8,22 @@ I began my professional career as a Junior Software Engineer during the 4th seme
 
 Currently, I am seeking positions and scholarships abroad in the fields of Machine Learning and AI. I am eager to contribute to innovative projects and further my knowledge in these cutting-edge areas.
 
-### Technologies I am working with:
-    👉   Spring (Java)
-            Spring Framework(Java)
-            Spring boot Microservices
-            Hysterics Cloud Services
-            Apache Kafka
-            API Gateway
-            Load Balancers
-            SOAP-based Web Services
-            Spring Core MVC
-            Aspect Oriented Programming
-            Spring Security 
-            Centralized Logging System
-            Swagger
-            Thymeleaf based Server Side Applications
-            JSP based server side spring boot application
-    👉	Blockchain
-            Ethereum Smart Contract Developer
-            IPFS
-            Sanity
-            Solidity
-            Opensea Marketplace NFT Minting
-            Standard ERC-721 for NFT
-            DAPs development with React Js and Next.js with ETH and other currencies 
-    👉	Front End
-            HTML5
-            CSS ======> SASS Framework
-            Bootstrap 5
-            Javascript
-                React.Js with Redux
-                    Next.Js framework for Server Side Enterprise Application Development
-    👉  Mobile
-            Flutter
-    👇 Tools:
-    👉	JDK 1.8, 11, 17, 18
-    👉	Databases
-            * MySQL Community Server
-            * PostgreSQL Server
-            * SQL Server
-            * MongoDB Server for NoSQL Document-based Projects
-            * PhpMyAdmin
-    👉  Version Control
-            Github
-            Bitbucket
-            Jira for Software Project Management
-    👉  Development IDEs
-            JetBrains IntelliJ Idea (Community Edition)
-            Netbeans
-            Visual Studio Code
-            Eclipse 
-    👉  APIs Testing Tools
-            Postman Client
-            Swagger
-    👉 Database Designing
-            Figma
-            Create
-            UML
-                 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
+### Programming Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Front-end Technologies:
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asadali163)  
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=asadali163)
