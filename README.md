@@ -2,7 +2,7 @@
 
 **AI Engineer · Gold Medalist in Computer Science · Aspiring AI researcher**
 
-I build AI systems across vision-language models, computer vision, NLP and time-series forecasting, and I enjoy taking a model from an idea to something people actually use. I'm currently preparing for a research-oriented, fully funded Master's in AI (Fall 2027).
+I build AI systems across vision-language models, computer vision, NLP and time-series forecasting, and I enjoy taking a model from an idea to something people actually use.
 
 ### 🔭 Now
 - **AI Engineer at AISight**, Lahore: sales forecasting for 600+ retail outlets (ARIMA/SARIMA, Prophet, +5.6% forecasting performance), an LLM-powered chatbot for Route-to-Market data, and data pipelines for Fortune 500 CPG clients.
